@@ -1,0 +1,22 @@
+.toolbar{
+    width: 100%;
+    position: fixed;
+    background: #A152A0;
+    top: 0;
+    left: 0;
+    height: 60px;
+}
+
+.toolbar_logo{
+    margin-left: 0.5rem;
+}
+
+.toolbar_logo a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.toolbar_nav{
+    display: flex;
+}

@@ -1,0 +1,40 @@
+.modalTitle {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.card {
+    width: 10rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 35px;
+    position: inherit!important;
+    cursor: pointer;
+    box-shadow: 0px 2px;
+}
+
+.card-image {
+    height: 200px;
+    background-color: #F08030;
+}
+
+.card-body {
+    text-align: center;
+    background-color: #808080;
+    color: black;
+    padding: 0.6rem!important;
+    text-transform: capitalize;
+}
+
+.list-page {
+    padding-top: 7%;
+    padding-left: 7px;
+}
+
+.row {
+    margin-left: 100px!important;
+}
+
+.form-group {
+    width: 100%;
+}
