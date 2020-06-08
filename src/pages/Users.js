@@ -185,7 +185,7 @@ class Users extends React.Component {
         return <div className="list-page">
             <Container >
                 <Row>
-                    <h1>Pokedex.org</h1>
+                    <h1>User</h1>
                     <br></br>
                 </Row>
                 <Row className="button-row">

@@ -9,8 +9,8 @@ const sideDrawer = props => {
     }
     return (<nav className={drawerClasses.join(' ')} >        
         <ListGroup variant="flush">
-            <ListGroup.Item style={{ fontWeight: 'bold' }}>Pokedex.org</ListGroup.Item>
-            <ListGroup.Item>Pokemon</ListGroup.Item>
+            <ListGroup.Item style={{ fontWeight: 'bold' }}>User.org</ListGroup.Item>
+            <ListGroup.Item>User</ListGroup.Item>
             <ListGroup.Item>About</ListGroup.Item>
         </ListGroup>
     </nav>)
